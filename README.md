@@ -63,5 +63,5 @@ Acciones aplicadas:
 
 1. Clonar el repositorio:  
    ```bash
-   git clone https://github.com/AllEndsours/titanic-analysis.git
-   cd titanic-analysis
+   git clone https://github.com/AllEndsours/Titanic.git
+   cd Titanic-
